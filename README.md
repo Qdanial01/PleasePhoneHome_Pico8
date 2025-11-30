@@ -22,5 +22,8 @@ Using PICO-8’s built-in tools, I coded the map, player controls, collision log
 3. Alternatively, clone the repo and load the project in PICO-8 if you own it.
 4. Control the astronaut using the **arrow keys** to move around the space station, collect keycards and reach the communication terminal!
 
+## 🖼️ Preview
+https://github.com/user-attachments/assets/786d09aa-9e2a-4c9b-8225-c80e22441adf
+
 ## 🎯 Credits
 Inspired by the top-down adventure style and tutorials (especially the works of Dylan Bennet (Mboffin)'s Top-Down Adventure Game [https://www.youtube.com/playlist?list=PLdLmU93eWisKpyk1WZywUSYAq5dkCPFIv]) that helped shape the gameplay vision. Big thanks for the inspiration and for showing how compact console limitations can lead to creative design.
