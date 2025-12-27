@@ -1,5 +1,5 @@
 # 🎮Please Phone Home
-A retro-style top-down space-station adventure made with the fantasy console PICO-8, where you play as an astronaut trying to collect keycards and reach the communication terminal before the station explodes.
+A top-down space-station adventure made with the fantasy console PICO-8, where you play as an astronaut trying to collect keycards and reach the communication terminal before the station explodes.
 
 ## 🛠️ Technology
 - `PICO-8`
